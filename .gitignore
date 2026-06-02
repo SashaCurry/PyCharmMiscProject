@@ -1,2 +1,5 @@
 .idea
 .ipynb_checkpoints
+dataset
+mnist
+sample_data
